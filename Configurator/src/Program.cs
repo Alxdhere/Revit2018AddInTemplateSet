@@ -207,8 +207,8 @@ namespace Bushman.RevitAddInTemplateSet_Configurator {
         private static void WriteCopyrightInfo() {
 
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\nRevit2018AddInTemplateSet " +
-                "Configurator\n(c) Andrey Bushman, 2017\n");
+            Console.WriteLine("\nRevit2020AddInTemplateSet " +
+                "Configurator\n(c) ilgnv88, 2020\n");
             Console.ResetColor();
         }
 

@@ -1,0 +1,6 @@
+D:\07 С#\99 config templates\Revit2020AddInTemplateSet-master\Revit2020AddInTemplateSet-master\C# Project templates\Revit 2020 Class Library\obj\Debug\TemplateRevitCs.csprojAssemblyReference.cache
+D:\07 С#\99 config templates\Revit2020AddInTemplateSet-master\Revit2020AddInTemplateSet-master\C# Project templates\Revit 2020 Class Library\obj\Debug\RootNamespace.safeprojectname.Class1.resources
+D:\07 С#\99 config templates\Revit2020AddInTemplateSet-master\Revit2020AddInTemplateSet-master\C# Project templates\Revit 2020 Class Library\obj\Debug\$RootNamespace$.$safeprojectname$.Properties.Resources.resources
+D:\07 С#\99 config templates\Revit2020AddInTemplateSet-master\Revit2020AddInTemplateSet-master\C# Project templates\Revit 2020 Class Library\obj\Debug\RootNamespace.safeprojectname.Class1.ru.resources
+D:\07 С#\99 config templates\Revit2020AddInTemplateSet-master\Revit2020AddInTemplateSet-master\C# Project templates\Revit 2020 Class Library\obj\Debug\TemplateRevitCs.csproj.GenerateResource.cache
+D:\07 С#\99 config templates\Revit2020AddInTemplateSet-master\Revit2020AddInTemplateSet-master\C# Project templates\Revit 2020 Class Library\obj\Debug\TemplateRevitCs.csproj.CoreCompileInputs.cache

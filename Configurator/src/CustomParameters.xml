@@ -26,12 +26,14 @@ https://github.com/Andrey-Bushman/Revit2018AddInTemplateSet -->
       <Path>%USERPROFILE%\Documents\Visual Studio 2013\Templates\ProjectTemplates\Visual C#</Path>
       <Path>%USERPROFILE%\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#</Path>
       <Path>%USERPROFILE%\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#</Path>
+      <Path>%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#</Path>
     </CustomProjectTemplatesLocations>
     <!-- The locations of Visual Studio Item Templates. -->
     <CustomItemTemplatesLocations>
       <Path>%USERPROFILE%\Documents\Visual Studio 2013\Templates\ItemTemplates\Visual C#</Path>
       <Path>%USERPROFILE%\Documents\Visual Studio 2015\Templates\ItemTemplates\Visual C#</Path>
       <Path>%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#</Path>
+      <Path>%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates\Visual C#</Path>
     </CustomItemTemplatesLocations>
   </VisualStudioTemplateFolders>
   
@@ -42,14 +44,14 @@ https://github.com/Andrey-Bushman/Revit2018AddInTemplateSet -->
   aren't to edit the values of 'Name' attributes! Also, don't 
   delete the 'CustomParameter' xml-elements. -->
   <CustomParameters>
-    <CustomParameter Name='$ClientId$' Value='BUSHMAN'/>
+    <CustomParameter Name='$ClientId$' Value='ilgnv88'/>
     <CustomParameter Name='$VendorId$'
-			Value='ru.blogspot.revit-addins'/>
-    <CustomParameter Name='$CompanyName$' Value='Bushman'/>
+			Value='ilgnv.ru'/>
+    <CustomParameter Name='$CompanyName$' Value='ilgnv88'/>
     <CustomParameter Name='$RootNamespace$'
-			Value='Bushman'/>
+			Value='ilgnv88'/>
     <CustomParameter Name='$WebPage$'
-			Value='https://revit-addins.blogspot.ru'/>
-    <CustomParameter Name='$AppYear$' Value='2018'/>
+			Value='https://ilgnv.ru'/>
+    <CustomParameter Name='$AppYear$' Value='2020'/>
   </CustomParameters>
 </Settings>

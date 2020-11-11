@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>Updater.cs</DefaultName>
+    <Name>Revit updater</Name>
+    <Description>Revit updater.</Description>
+    <ProjectType>CSharp</ProjectType>
+    <SortOrder>10</SortOrder>
+    <Icon>__TemplateIcon.ico</Icon>
+    <PreviewImage>__PreviewImage.ico</PreviewImage>
+  </TemplateData>
+  <TemplateContent>
+    <CustomParameters>
+      <CustomParameter Name="$ClientId$" Value="ilgnv" />
+      <CustomParameter Name="$VendorId$" Value="ilgnv.ru" />
+      <CustomParameter Name="$CompanyName$" Value="ilgnv" />
+      <CustomParameter Name="$RootNamespace$" Value="ilgnv" />
+      <CustomParameter Name="$WebPage$" Value="https://ilgnv.ru" />
+      <CustomParameter Name="$AppYear$" Value="2020" />
+    </CustomParameters>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">Updater.cs</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.resx" ReplaceParameters="true">Updater.resx</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.ru.resx" ReplaceParameters="true">Updater.ru.resx</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
