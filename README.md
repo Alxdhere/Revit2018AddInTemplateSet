@@ -1,29 +1,29 @@
-# Revit 2018 Add-In Template Set
+# Revit 2020 Add-In Template Set
 
-This is a set of Visual Studio 2017 templates for creating Revit 2018 add-in projects.
+This is a set of Visual Studio 2019 templates for creating Revit 2020 add-in projects.
 
-© Andrey Bushman, 2017, [blog in Russian](https://revit-addins.blogspot.ru/2017/02/revit-visual-studio.html)
+© Ivan Loginov, 2020, [Personal site](https://ilgnv.ru)
 
 **WARNING!**
 
 After the templates installing you are to delete the directories:
 
- * `%AppData%\Microsoft\VisualStudio\15.*\ItemTemplatesCache`
- * `%AppData%\Microsoft\VisualStudio\15.*\ProjectTemplatesCache`
+ * `%AppData%\Microsoft\VisualStudio\16.*\ItemTemplatesCache`
+ * `%AppData%\Microsoft\VisualStudio\16.*\ProjectTemplatesCache`
 
- Visual Studio 2017 recreates they when you will create new project or add new item to a project.
+ Visual Studio 2019 recreates they when you will create new project or add new item to a project.
 
 It contains:
 
-- Revit 2018 External Application (C# Project Template)
-- Revit 2018 External DBApplication (C# Project Template)
-- Revit 2018 Class Library (C# Project Template)
-- Revit 2018 External Command (C# Item Template)
-- Revit 2018 External Command Availability (C# Item Template)
-- Revit 2018 Updater (C# Item Template)
-- Revit 2018 New Class (C# Item Template)
+- Revit 2020 External Application (C# Project Template)
+- Revit 2020 External DBApplication (C# Project Template)
+- Revit 2020 Class Library (C# Project Template)
+- Revit 2020 External Command (C# Item Template)
+- Revit 2020 External Command Availability (C# Item Template)
+- Revit 2020 Updater (C# Item Template)
+- Revit 2020 New Class (C# Item Template)
 
-The `Revit 2018 External Application` contains the special additional configuration &ndash; `Debug via Revit Add-In Manager`.
+The `Revit 2020 External Application` contains the special additional configuration &ndash; `Debug via Revit Add-In Manager`.
 It allows to you edit and debug your commands code without Revit restarting.
 
 Templates of all projects contain the search engine for searching of the absent assemblies.
@@ -35,7 +35,7 @@ Also it contains configurator which can configure the settings
 of these templates for you and install them on your local
 machine from their code sources.
 
-Join the [gitter Revit2017AddInTemplateSet chat](https://gitter.im/Revit2017AddInTemplateSet/Lobby).
+Developed using source code https://github.com/Andrey-Bushman/Revit2018AddInTemplateSet
 
 These old video lessons show how to install and how to work with these templates:
 
