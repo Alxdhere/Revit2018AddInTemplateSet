@@ -32,7 +32,6 @@
       <ProjectItem ReplaceParameters="true">Properties\AssemblyInfo.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true">Properties\Resources.Designer.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true">Properties\Resources.resx</ProjectItem>
-      <ProjectItem ReplaceParameters="false">packages.config</ProjectItem>
       <ProjectItem ReplaceParameters="true">readme.txt</ProjectItem>
       <ProjectItem ReplaceParameters="true">License.txt</ProjectItem>
     </Project>
