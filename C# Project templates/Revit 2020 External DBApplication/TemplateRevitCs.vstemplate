@@ -5,6 +5,10 @@
     <Description>Revit 2018 add-in project (DBApplication).</Description>
     <Icon>TemplateIcon.ico</Icon>
     <ProjectType>CSharp</ProjectType>
+    <LanguageTag>C#</LanguageTag>
+    <PlatformTag>windows</PlatformTag>
+    <ProjectTypeTag>Library</ProjectTypeTag>
+    <ProjectTypeTag>Desktop</ProjectTypeTag>
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>RevitDBAddin</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
