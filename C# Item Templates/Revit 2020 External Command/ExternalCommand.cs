@@ -24,7 +24,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Interop;
 using WPF = System.Windows;
 using System.Linq;
-using Bushman.RevitDevTools;
+// using Bushman.RevitDevTools;
 using $rootnamespace$.Properties;
 #endregion
 
