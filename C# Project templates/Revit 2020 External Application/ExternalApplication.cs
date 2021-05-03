@@ -25,7 +25,7 @@ using System.Windows.Interop;
 using WPF = System.Windows;
 using System.Linq;
 using $RootNamespace$.$safeprojectname$.Properties;
-using Bushman.RevitDevTools;
+// using Bushman.RevitDevTools;
 using System.Xml.Linq;
 #endregion
 
