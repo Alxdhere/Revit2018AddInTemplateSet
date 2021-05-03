@@ -44,14 +44,14 @@ https://github.com/Andrey-Bushman/Revit2018AddInTemplateSet -->
   aren't to edit the values of 'Name' attributes! Also, don't
   delete the 'CustomParameter' xml-elements. -->
   <CustomParameters>
-    <CustomParameter Name='$ClientId$' Value='ilgnv'/>
+    <CustomParameter Name='$ClientId$' Value='Alxd'/>
     <CustomParameter Name='$VendorId$'
-			Value='ilgnv.ru'/>
-    <CustomParameter Name='$CompanyName$' Value='ilgnv'/>
+			Value='alxd.it-dept.ru'/>
+    <CustomParameter Name='$CompanyName$' Value='Alxd'/>
     <CustomParameter Name='$RootNamespace$'
-			Value='ilgnv'/>
+			Value='Alxd'/>
     <CustomParameter Name='$WebPage$'
-			Value='https://ilgnv.ru'/>
+			Value='https://alxd.it-dept.ru'/>
     <CustomParameter Name='$AppYear$' Value='2020'/>
   </CustomParameters>
 </Settings>
