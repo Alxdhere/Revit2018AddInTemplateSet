@@ -33,7 +33,6 @@
       <ProjectItem ReplaceParameters="true">Properties\AssemblyInfo.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true">Properties\Resources.Designer.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true">Properties\Resources.resx</ProjectItem>
-      <ProjectItem ReplaceParameters="false">packages.config</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.chm">Revit_Add-In_help_file_stub.chm</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.ru.chm">Revit_Add-In_help_file_stub.ru.chm</ProjectItem>
       <ProjectItem ReplaceParameters="true">readme.txt</ProjectItem>
