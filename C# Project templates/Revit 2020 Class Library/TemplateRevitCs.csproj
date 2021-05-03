@@ -107,9 +107,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
     <Analyzer Include="C:\Program Files\Autodesk\Revit 2020\RevitAPI.dll" />
     <Analyzer Include="C:\Program Files\Autodesk\Revit 2020\RevitAPIIFC.dll" />
     <Analyzer Include="C:\Program Files\Autodesk\Revit 2020\RevitAPIUI.dll" />
