@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Type="Project" Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
   <TemplateData>
-    <Name>Revit 2018 External Application</Name>
-    <Description>Revit 2018 add-in project (Application).</Description>
+    <Name>Revit 2020 External Application</Name>
+    <Description>Revit 2020 add-in project (Application).</Description>
     <Icon>TemplateIcon.ico</Icon>
     <ProjectType>CSharp</ProjectType>
     <LanguageTag>C#</LanguageTag>
