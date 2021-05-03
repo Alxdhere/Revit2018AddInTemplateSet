@@ -153,24 +153,6 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>
-      SET rdt="$(AppData)\$ClientId$\Revit\$AppYear$\RevitDevTools"
-      SET p=$(SolutionDir)packages\
-      SET a=Revit2020DevTools
-      for /D %25%25x in ("%25p%25%25a%25*") do if not defined f set "f=%25%25x"
-      SET pa=%25f%25\lib\net47\
-
-      IF NOT "$(ConfigurationName)" == "Debug via Revit Add-In Manager" (
-      copy /Y "$(ProjectDir)*.addin" "$(AppData)\Autodesk\REVIT\Addins\$AppYear$"
-      mkdir "$(AppData)\Autodesk\REVIT\Addins\$AppYear$\$(ProjectName)\help"
-      xcopy /Y /E /R "$(ProjectDir)bin\$(Configuration)\*" "$(AppData)\Autodesk\REVIT\Addins\$AppYear$\$(ProjectName)"
-      copy /Y "$(ProjectDir)*.chm" "$(AppData)\Autodesk\REVIT\Addins\$AppYear$\$(ProjectName)\help"
-
-      mkdir %25rdt%25
-
-      copy /Y "%25pa%25*" %25rdt%25
-      ) ELSE (
-      copy /Y "%25pa%25*" "$(TargetDir)"
-      )
     </PostBuildEvent>
   </PropertyGroup>
 </Project>
