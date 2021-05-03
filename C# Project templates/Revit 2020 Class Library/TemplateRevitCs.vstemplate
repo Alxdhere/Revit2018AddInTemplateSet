@@ -5,6 +5,10 @@
     <Description>Revit 2020 Class Library.</Description>
     <Icon>TemplateIcon.ico</Icon>
     <ProjectType>CSharp</ProjectType>
+    <LanguageTag>C#</LanguageTag>
+    <PlatformTag>windows</PlatformTag>
+    <ProjectTypeTag>Library</ProjectTypeTag>
+    <ProjectTypeTag>Desktop</ProjectTypeTag>
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>RevitClassLibrary</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
